@@ -1,0 +1,19 @@
+
+.parent-box {
+    display: flex;
+    justify-content: center;
+    width: 40rem;
+    height: 15rem;
+    margin: auto;
+}
+
+.bg-primary{
+    background: rgb(6, 115, 204);
+}
+
+
+.img-logo img {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 40px;
+}
